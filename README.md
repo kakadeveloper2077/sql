@@ -18,12 +18,12 @@
 
 🛢️ Some common MySQL commands:
 
-sql
-CREATE DATABASE name; -- Creates the database
-CREATE TABLE name (...); -- Creates a table
-ALTER TABLE name ...; -- Alters an existing table
-
-SELECT * FROM table; -- Selects data
-INSERT INTO table (...) VALUES (...); -- Insert data
-UPDATE table SET ... WHERE ...; -- Update records
-DELETE FROM table WHERE ...; -- Delete records
+<br><br>
+CREATE DATABASE name; -- Creates the database<br>
+CREATE TABLE name (...); -- Creates a table<br>
+ALTER TABLE name ...; -- Alters an existing table<br>
+<br><br>
+SELECT * FROM table; -- Selects data<br>
+INSERT INTO table (...) VALUES (...); -- Insert data<br>
+UPDATE table SET ... WHERE ...; -- Update table<br>
+DELETE FROM table WHERE ...; -- Delete records<br>
