@@ -17,7 +17,6 @@
 🛢️ and the **Foreign Key**, which creates relationships between tables.
 
 🛢️ Some common MySQL commands:
-
 <br>
 CREATE DATABASE name; -- Creates the database<br>
 CREATE TABLE name (...); -- Creates a table<br>
